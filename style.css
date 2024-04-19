@@ -1,0 +1,24 @@
+body{
+    font-family: monospace;
+}
+
+.titulo{
+    font-size: 25px;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bar{
+    width: 500px;
+    height: 400px;
+
+}
+
+.line{
+    width: 500px;
+    height: 400px;
+}
